@@ -52,14 +52,14 @@ Create a file at `lib/firebase.js` and add your Firebase config:
 ### 📸 Screenshots
 
 #### 🖥️ Home Page
-![Home Page Screenshot](./screenshots/login.png)
+![Home Page Screenshot](./Screenshots/login.png)
 
 #### 📋 SignUp View
-![Wishlist Screenshot](./screenshots/signup.png)
+![Wishlist Screenshot](./Screenshots/signup.png)
 
 #### 🔧 Add Wishlist Modal
-![Add Product Screenshot](./screenshots/wishlist.png)
+![Add Product Screenshot](./Screenshots/wishlist.png)
 #### 🔧 Add Wishlist Modal Products
-![Add Product Screenshot](./screenshots/wishlistproduct.png)
+![Add Product Screenshot](./Screenshots/wishlistproduct.png)
 
             
