@@ -55,10 +55,10 @@ Create a file at `lib/firebase.js` and add your Firebase config:
 ![Home Page Screenshot](./Screenshots/login.png)
 
 #### 📋 SignUp View
-![Wishlist Screenshot](./Screenshots/signup.png)
+![Wishlist Screenshot](./Screenshots/Signup.png)
 
 #### 🔧 Add Wishlist Modal
-![Add Product Screenshot](./Screenshots/wishlist.png)
+![Add Product Screenshot](./Screenshots/Wishlist.png)
 #### 🔧 Add Wishlist Modal Products
 ![Add Product Screenshot](./Screenshots/wishlistproduct.png)
 
